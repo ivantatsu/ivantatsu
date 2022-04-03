@@ -15,9 +15,7 @@ Mi nombre es Iván soy un desarrollador que aun esta experimentando para ver si 
 
 Si estas interesado en realizar algun proyecto con algun joven desarrollador con ganas de comerse el mundo y aprender nuevos lenguajes contactame a través de mis redes sociales.
 
-  - Twitter: 
+  - Twitter: https://twitter.com/ivanhoee10
+  - LinkedIn: https://www.linkedin.com/in/ivanramon/
+  - 📩 E-mail : ivanramonmd@gmail.com
 
-
-## STATS
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ivantatsu&show_icons=true&locale=en&theme=tokyonight" alt="ivantatsu" /></p>
