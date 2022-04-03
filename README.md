@@ -1,16 +1,18 @@
-### Hi there 👋
+### HOLA 👋
 
-<!--
-**ivantatsu/ivantatsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Mi nombre es Iván soy un desarrollador que aun esta experimentando para ver si le gusta mas el Back-end o el Front-End. (A día de hoy estoy mas enfocado en el back-end.)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+## ACERCA DE MI 🙋‍♂️
+
+- 📖 Actualmente estoy estudiando Desarrollo de Aplicaciones Multiplataforma.
+- 👯 Estoy colaborando en el desarrollo de un servidor basado en scripts de Lua. (ForasterosRP junto a otros desarolladores.)
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+## ACTIVIDAD
+
+[![Estadisticas de GitHub](https://github-readme-stats.vercel.app/api?username=ivantatsu)](https://github.com/anuraghazra/github-readme-stats)
