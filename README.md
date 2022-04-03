@@ -1,6 +1,6 @@
 ### HOLA 👋
 
-Mi nombre es Iván soy un desarrollador que aun esta experimentando para ver si le gusta mas el Back-end o el Front-End. (A día de hoy estoy mas enfocado en el back-end.)
+Mi nombre es Iván soy un desarrollador que aun esta experimentando para ver si le gusta mas el Back-End o el Front-End. (A día de hoy estoy mas enfocado en el back-end.)
 
 
 ## ACERCA DE MI 🙋‍♂️
@@ -18,4 +18,3 @@ Si estas interesado en realizar algun proyecto con algun joven desarrollador con
   - Twitter: https://twitter.com/ivanhoee10
   - LinkedIn: https://www.linkedin.com/in/ivanramon/
   - 📩 E-mail : ivanramonmd@gmail.com
-
